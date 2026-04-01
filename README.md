@@ -19,7 +19,7 @@
 
 
 
-- 💬 Ask me about **Animation Pipelines, Blender Development, Cybersecurity and CTF**
+- 💬 Ask me about **Animation Pipelines, Blender , Cybersecurity and CTF**
 
 - ⚡ Fun fact **I have 10+ years in art and 3D animation**
 
