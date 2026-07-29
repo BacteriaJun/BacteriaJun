@@ -60,14 +60,6 @@
 <p align="left">
 </p>
 
-<p align="center">
-		    <picture>
-		    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/BacteriaJun/BacteriaJun/output/github-contribution-grid-snake-dark.svg" width="1000" />
-		    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BacteriaJun/BacteriaJun/output/github-contribution-grid-snake.svg" width="1000" />
-		    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/BacteriaJun/BacteriaJun/output/github-contribution-grid-snake.svg" width="1000" />
-		    </picture>
-</p>
-
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
