@@ -1,135 +1,216 @@
-<a href="#"><img align="center" alt="Welcome" width="100%" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+# Hi, I'm Junius Tang 👋
 
+### Security · Data · 3D Tooling
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=89CFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Junius+Tang;3D+Animation+%7C+Cybersecurity;Blender+Plugin+Developer;Always+building+and+improving" alt="Typing SVG" />
-  </a>
-</h3>
+I build practical tools across **cybersecurity, data, and 3D animation workflows** — with a focus on solving real problems through software, automation, and applied engineering.
 
----
-
-<h1 align="center">Hi 👋, I'm Junius Tang</h1>
-
-
-
-<h3 align="center">Animation · Cybersecurity · Data</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BacteriaJun&label=Profile%20views&color=0e75b6&style=flat" alt="BacteriaJun" /> </p>
-
-
-
-- 💬 Ask me about **Animation Pipelines, Blender , Cybersecurity and CTF**
-
-- ⚡ Fun fact **I have 10+ years in art and 3D animation**
+Currently working with **Python, Blender, motion-capture pipelines, cybersecurity, and data analytics**.
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Project
 
-- 🥇 Chunqiu Cup Cybersecurity League — **1st Prize (Winter 2024 & Winter 2025)**  
-- 🏅 Chunqiu Cup (Winter 2024) — **Multi-Domain CTF Special Awards (Web / Crypto / Reverse / Misc)**  
-- 🔐 CNVD (China National Vulnerability Database) — **10+ High-Risk Vulnerability Reports**  
-- 🛡️ Huawei Certified ICT Professional — **HCIP-Security**  
-- 🏅 5th Great Wall Cup Cybersecurity Competition & Beijing Cybersecurity Skills Contest — **Security Guardian Award**  
-- 🥈 ICAD International Contemporary Youth Art Design Competition — **Silver Award**  
-- 📄 IEEE Conference Paper — *(Ransomware Countermeasures)*  
+### [BVH Motion Retargeter](https://github.com/BacteriaJun/BVH-Motion-Retargeter)
+
+[![Stars](https://img.shields.io/github/stars/BacteriaJun/BVH-Motion-Retargeter?style=flat\&logo=github)](https://github.com/BacteriaJun/BVH-Motion-Retargeter/stargazers)
+[![Release](https://img.shields.io/github/v/release/BacteriaJun/BVH-Motion-Retargeter)](https://github.com/BacteriaJun/BVH-Motion-Retargeter/releases/latest)
+[![CI](https://github.com/BacteriaJun/BVH-Motion-Retargeter/actions/workflows/ci.yml/badge.svg)](https://github.com/BacteriaJun/BVH-Motion-Retargeter/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/BacteriaJun/BVH-Motion-Retargeter)](https://github.com/BacteriaJun/BVH-Motion-Retargeter/blob/main/LICENSE)
+
+A production-oriented **Blender add-on for retargeting BVH motion-capture data** to common humanoid skeleton conventions.
+
+It provides an integrated workflow for:
+
+* BVH source mapping
+* constraint-based motion retargeting
+* animation baking
+* Mixamo-compatible rigs
+* Unreal Engine 5 humanoid workflows
+* VRM humanoid avatars
+* FBX export
+* motion cleanup and correction
+
+**Tech:** Python · Blender Python API · Motion Capture · Rigging · Animation Pipelines
+
+➡️ [View Project](https://github.com/BacteriaJun/BVH-Motion-Retargeter)
+➡️ [Download Latest Release](https://github.com/BacteriaJun/BVH-Motion-Retargeter/releases/latest)
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BacteriaJun&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BacteriaJun&theme=dark)
+## 🔐 Cybersecurity
+
+My cybersecurity work focuses on practical security, vulnerability research, and CTF problem solving.
+
+### Selected Experience
+
+* 🥇 **Chunqiu Cup Cybersecurity League** — 1st Prize
+* 🏅 Multi-domain CTF awards across **Web / Crypto / Reverse / Misc**
+* 🔐 Reported **10+ high-risk vulnerabilities** to CNVD
+* 🛡️ **HCIP-Security**
+* 🏅 **5th Great Wall Cup Cybersecurity Competition & Beijing Cybersecurity Skills Contest** — Security Guardian Award
+
+### Areas
+
+`CTF` · `Vulnerability Research` · `Web Security` · `Reverse Engineering` · `Cryptography` · `Linux` · `Network Security`
+
+---
+
+## 📊 Data & Research
+
+I am also interested in applying software and analytical methods to real-world technical problems.
+
+My work and study interests include:
+
+* Data analytics
+* Applied statistics
+* Python-based data workflows
+* Information security analysis
+* Research-oriented problem solving
+* Automation and reproducible workflows
+
+### Research
+
+📄 **IEEE Conference Paper**
+
+Research on ransomware countermeasures and information-security related topics.
+
+---
+
+## 🎬 3D & Animation
+
+I have a long-standing interest in digital art, 3D animation, and motion-capture workflows.
+
+My current technical focus is increasingly centered on the engineering side of 3D production:
+
+* Blender add-on development
+* Blender Python API
+* Motion capture
+* BVH processing
+* Motion retargeting
+* Rigging
+* Character animation pipelines
+* FBX / VRM workflows
+* Workflow automation
+
+🏅 **ICAD International Contemporary Youth Art Design Competition — Silver Award**
+
+---
+
+## 🧰 Technical Focus
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+
+### Security
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Research-informational)
+![CTF](https://img.shields.io/badge/CTF-Web%20%7C%20Crypto%20%7C%20Reverse%20%7C%20Misc-red)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white)
+
+### 3D
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender\&logoColor=white)
+![Motion Capture](https://img.shields.io/badge/Motion_Capture-BVH%20%7C%20FBX%20%7C%20VRM-purple)
+
+---
+
+## 🛠 What I Like Building
+
+I am especially interested in projects that sit between different technical domains.
+
+```text
+Cybersecurity
+      │
+      ├──── Automation / Tooling
+      │
+Data ─┼──── Python / Analysis
+      │
+      └──── 3D Pipeline Engineering
+                    │
+                    ▼
+             Practical Software
+```
+
+Rather than treating security, data, and 3D as isolated interests, I am interested in the engineering methods shared between them:
+
+* structured data transformation;
+* automation of repetitive workflows;
+* debugging complex systems;
+* interoperability between tools and formats;
+* reproducible technical processes.
+
+---
+
+## 🌱 Open Source
+
+I use GitHub both for building my own projects and contributing improvements to other open-source repositories.
+
+Some areas I have contributed to include:
+
+* documentation improvements;
+* developer tooling;
+* README and project presentation;
+* open-source community resources;
+* software usability improvements.
+
+My current priority is building and maintaining projects where I can contribute substantial original engineering work.
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BacteriaJun&theme=transparent"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BacteriaJun&theme=transparent"
+    height="165"
+    alt="Languages"
+  />
+</p>
+
+---
+
+## 📌 Current Interests
+
+* Cybersecurity tooling
+* Vulnerability research
+* CTF
+* Blender add-on development
+* Motion-capture pipelines
+* Animation tooling
+* Data analytics
+* Applied research
+
+---
+
+## 🤝 Connect
+
+If you are interested in:
+
+* Blender tooling
+* motion capture
+* animation pipelines
+* cybersecurity
+* CTF
+* data-related engineering
+* open-source collaboration
+
+feel free to explore my repositories or open an issue / discussion on the relevant project.
 
 ---
 
 <p align="center">
-	<table>
-		<tr>
-		<td align="center">
-		    <picture>
-		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/BacteriaJun/BacteriaJun/profile-3d-contrib/profile-night-green.svg?clear=1" />
-		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/BacteriaJun/BacteriaJun/profile-3d-contrib/profile-season-animate.svg?clear=1" />
-		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/BacteriaJun/BacteriaJun/profile-3d-contrib/profile-season-animate.svg?clear=1" />
-		    </picture>
-		</td>
-		</tr>
-	</table>
+  <b>Build useful things. Understand how systems work.</b>
 </p>
-
-<h3 align="left"></h3>
-<p align="left">
-</p>
-
-# 💻 My favorite tools and technologies
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=blender" width="65" height="65" />
-      <br>Blender
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" />
-      <br>VSCode
-    </td>
-  </tr>
-</table>
-<br><br>
-
-
-</div>
-
----
-
-###
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-###
-
-<div style="text-align: center;">
-  <img src ="https://githubreadme-a6hp.vercel.app/api?username=BacteriaJun&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="124" />
-  <img src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=BacteriaJun&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="124" />
-  <img src="https://streak-stats.vercel.app/?user=BacteriaJun&theme=gruvbox&hide_border=true" height="124" />
-</div>
-
-###
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-###
-
-  <img src="https://github-trophies.vercel.app/?username=BacteriaJun&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=gruvbox&no-frame=true&row=1&column=8" />
-  
-###
-
----
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BacteriaJun Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BacteriaJun&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
----
-
