@@ -55,48 +55,24 @@ My work focuses on **vulnerability research, offensive security, reverse enginee
 
 `CTF` · `Vulnerability Research` · `Web Security` · `Reverse Engineering` · `Cryptography` · `Linux` · `Network Security`
 
----
-
-## 📊 Data & Research
-
-I am also interested in applying software and analytical methods to real-world technical problems.
-
-My work and study interests include:
-
-* Data analytics
-* Applied statistics
-* Python-based data workflows
-* Information security analysis
-* Research-oriented problem solving
-* Automation and reproducible workflows
-
-### Research
-
-📄 **IEEE Conference Paper**
-
-Research on ransomware countermeasures and information-security related topics.
-
----
-
 ## 🎬 3D & Animation
 
-I have a long-standing interest in digital art, 3D animation, and motion-capture workflows.
+I work across **3D animation, technical art, and production pipeline development**, combining creative storytelling with software engineering.
 
-My current technical focus is increasingly centered on the engineering side of 3D production:
+I'm currently developing an animated adaptation of my original fiction, handling both creative production and technical workflows.
 
-* Blender add-on development
-* Blender Python API
-* Motion capture
-* BVH processing
-* Motion retargeting
-* Rigging
-* Character animation pipelines
-* FBX / VRM workflows
-* Workflow automation
+### Selected Experience
 
-🏅 **ICAD International Contemporary Youth Art Design Competition — Silver Award**
+- 🎨 **3D Production** — VRoid, Blender, character creation, and animation.
+- 🦴 **Motion Capture** — DiMocap workflows, skeletal retargeting, and FBX / VRM integration.
+- 🛠️ **Blender Add-on Development** — Custom tools for motion-capture skeleton mapping and animation retargeting.
+- 🌪️ **VFX & Compositing** — Houdini FX, Nuke, and After Effects.
+- 🎬 **Creative Production** — Screenwriting, directing, voice acting, and sound design.
+- ⚙️ **Pipeline Automation** — Exploring agent-assisted motion-capture processing and workflow automation.
 
----
+### Recognition
+
+- 🥈 **2025 ICAD International Contemporary Youth Art Design Competition — Silver Award**
 
 ## 🧰 Technical Focus
 
@@ -122,49 +98,48 @@ My current technical focus is increasingly centered on the engineering side of 3
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender\&logoColor=white)
 ![Motion Capture](https://img.shields.io/badge/Motion_Capture-BVH%20%7C%20FBX%20%7C%20VRM-purple)
 
----
-
 ## 🛠 What I Like Building
 
-I am especially interested in projects that sit between different technical domains.
+I enjoy building tools and systems that connect different technical domains, particularly **cybersecurity, AI, automation, and 3D production**.
+
+Although these fields may seem unrelated, I often find myself approaching them in similar ways: understanding how systems work, solving integration problems, and making complex workflows more efficient.
 
 ```text
-Cybersecurity
-      │
-      ├──── Automation / Tooling
-      │
-Data ─┼──── Python / Analysis
-      │
-      └──── 3D Pipeline Engineering
+Cybersecurity ──────┐
                     │
-                    ▼
-             Practical Software
+AI / Data ──────────┼──► Systems Engineering
+                    │             │
+3D & Animation ─────┘             ▼
+                         Automation / Tooling
+                                  │
+                                  ▼
+                         Practical Software
 ```
 
-Rather than treating security, data, and 3D as isolated interests, I am interested in the engineering methods shared between them:
+### Areas of Interest
 
-* structured data transformation;
-* automation of repetitive workflows;
-* debugging complex systems;
-* interoperability between tools and formats;
-* reproducible technical processes.
+- **System Design** — Building reliable systems from multiple components.
+- **Automation** — Reducing repetitive work through scripts, tools, and agents.
+- **Tool Development** — Creating custom solutions when existing tools fall short.
+- **Interoperability** — Connecting different software, APIs, and file formats.
+- **Reverse Engineering & Debugging** — Understanding how systems behave internally.
+- **Reproducibility** — Making technical workflows consistent, testable, and maintainable.
 
----
+I prefer understanding and building things myself, especially when a problem requires combining knowledge from different fields.
 
 ## 🌱 Open Source
 
-I use GitHub both for building my own projects and contributing improvements to other open-source repositories.
+I use GitHub to **build, share, and maintain my own projects**, as well as contribute improvements to other open-source repositories.
 
-Some areas I have contributed to include:
+My contributions have included:
 
-* documentation improvements;
-* developer tooling;
-* README and project presentation;
-* open-source community resources;
-* software usability improvements.
+- **Documentation & READMEs** — Improving technical documentation, clarity, and project accessibility.
+- **Developer Tooling** — Contributing tools and workflow improvements.
+- **Usability & Community** — Improving the developer experience and supporting open-source resources.
 
-My current priority is building and maintaining projects where I can contribute substantial original engineering work.
+I'm particularly interested in **independent engineering and long-term project development** — building practical tools, solving real problems, and maintaining software beyond its initial implementation.
 
+For me, open source is not just about contributing code. It's also about learning from existing systems, sharing useful work, and making software easier for others to understand and use.
 ---
 
 ## 📈 GitHub
@@ -182,34 +157,27 @@ My current priority is building and maintaining projects where I can contribute 
   />
 </p>
 
----
-
 ## 📌 Current Interests
 
-* Cybersecurity tooling
-* Vulnerability research
-* CTF
-* Blender add-on development
-* Motion-capture pipelines
-* Animation tooling
-* Data analytics
-* Applied research
+- 🔐 **Cybersecurity** — Vulnerability research, CTF, and security tooling.
+- 🛠️ **Systems Engineering** — Automation, developer tools, and software integration.
+- 🎬 **3D & Animation** — Blender add-ons, motion capture, and production pipelines.
+- 🤖 **AI & Data** — Applied AI, data analytics, and intelligent workflow automation.
+- 🌱 **Applied Research** — Exploring ideas and turning them into practical implementations.
 
 ---
 
 ## 🤝 Connect
 
-If you are interested in:
+I'm interested in exchanging ideas and collaborating on projects involving:
 
-* Blender tooling
-* motion capture
-* animation pipelines
-* cybersecurity
-* CTF
-* data-related engineering
-* open-source collaboration
+- Cybersecurity and vulnerability research
+- Blender tooling and animation pipelines
+- Motion capture and workflow automation
+- AI, data, and software engineering
+- Open-source development
 
-feel free to explore my repositories or open an issue / discussion on the relevant project.
+Feel free to explore my repositories, open an issue, or start a discussion on a relevant project.
 
 ---
 
