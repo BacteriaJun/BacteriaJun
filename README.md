@@ -39,15 +39,17 @@ It provides an integrated workflow for:
 
 ## 🔐 Cybersecurity
 
-My cybersecurity work focuses on practical security, vulnerability research, and CTF problem solving.
+My work focuses on **vulnerability research, offensive security, reverse engineering, and practical security engineering**. I enjoy exploring how systems work, identifying security weaknesses, and solving complex technical challenges.
 
-### Selected Experience
+### Selected Achievements
 
-* 🥇 **Chunqiu Cup Cybersecurity League** — 1st Prize
-* 🏅 Multi-domain CTF awards across **Web / Crypto / Reverse / Misc**
-* 🔐 Reported **10+ high-risk vulnerabilities** to CNVD
-* 🛡️ **HCIP-Security**
-* 🏅 **5th Great Wall Cup Cybersecurity Competition & Beijing Cybersecurity Skills Contest** — Security Guardian Award
+- 🥈 **National Runner-Up** — 2024 Chunqiu Cup Cybersecurity League (Individual CTF, 2nd Place Overall).
+- 🌍 **UIUCTF 2026** — Ranked **71st out of 548 teams worldwide (Top 13%)**, personally earning **1,229 of 1,398 points (87.9%)** across 12 solved challenges.
+- 🛡️ **CERT-EU Hall of Fame (2025)** — Recognized for contributions to vulnerability disclosure.
+- 🏅 **Four CTF Gold Finger Awards** — Crypto, Web, Reverse, and Misc, alongside the **Cybersecurity Practical Elite** distinction.
+- 🔐 **Vulnerability Research** — Reported **10+ high-risk vulnerabilities** to CNVD.
+- 🏅 **5th Great Wall Cup Cybersecurity Competition** — Security Guardian recognition.
+- 📜 **Huawei HCIP-Security** — Professional security certification.
 
 ### Areas
 
