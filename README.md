@@ -1,11 +1,10 @@
 # Hi, I'm Junius Tang 👋
 
-### Security · Data · 3D Tooling
+### Security Research · Data · 3D Pipeline Engineering
 
-I build practical tools across **cybersecurity, data, and 3D animation workflows** — with a focus on solving real problems through software, automation, and applied engineering.
+I build practical software at the intersection of **cybersecurity, data analytics, and 3D animation**, with a focus on systems engineering, automation, and cross-platform integration.
 
-Currently working with **Python, Blender, motion-capture pipelines, cybersecurity, and data analytics**.
-
+My work ranges from **vulnerability research and security tooling** to **Blender add-on development, motion-capture pipelines, and applied AI**.
 ---
 
 ## 🚀 Featured Project
